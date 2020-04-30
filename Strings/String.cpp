@@ -5,3 +5,7 @@ int main()
 	cout<<"saurav";
 	return 0;
 }
+String fun()
+{
+	return "having fun";
+}
