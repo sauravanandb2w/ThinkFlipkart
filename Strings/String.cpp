@@ -13,3 +13,7 @@ String fun()
 {
 	return "having fun";
 }
+void toTitle(char string[])
+{
+	printf("to Title");
+}
